@@ -1,0 +1,45 @@
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe.config
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.pdb
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Properties.Resources.resources
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csproj.GenerateResource.Cache
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.exe
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.pdb
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Detay.resources
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Kişi_Ekle.resources
+C:\Users\Yusuf\Documents\Visual Studio 2013\Projects\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Bilgi.resources
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe.config
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.exe
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.pdb
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.pdb
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Bilgi.resources
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Detay.resources
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Kişi_Ekle.resources
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csproj.GenerateResource.Cache
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe.config
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.exe
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.pdb
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.pdb
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csprojResolveAssemblyReference.cache
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Bilgi.resources
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Detay.resources
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Kişi_Ekle.resources
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Properties.Resources.resources
+E:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csproj.GenerateResource.Cache
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe.config
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.exe
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\bin\Debug\OnlisansProje.pdb
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csprojAssemblyReference.cache
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Bilgi.resources
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Detay.resources
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Kişi_Ekle.resources
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.Properties.Resources.resources
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csproj.GenerateResource.cache
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.csproj.CoreCompileInputs.cache
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.exe
+D:\Telefon Rehberi\OnlisansProje\OnlisansProje\obj\Debug\OnlisansProje.pdb
